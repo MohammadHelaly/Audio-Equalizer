@@ -7,7 +7,7 @@
     - user friendly GUI, use sliders to adjust gain of different bands, select filter type, etc..
     - user can see different relevant plots of signal in both time and frequency domain.
 ## Rundown:
- [See report](./6870_6952_6967_DSPFinalProject.docx.pdf). for code and screenshots of outputs.
+ [See report](./6870_6952_6967_DSPFinalProject.docx.pdf) for code and screenshots of outputs.
 ## Future Improvements:
 
 ## Contributors:
