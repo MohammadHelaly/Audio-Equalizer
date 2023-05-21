@@ -1,5 +1,5 @@
 # Audio Equalizer
- MATLAB audio equalizer to adjust the gain of different frequency bandsas the user prefers. [ i.e., if the user likes base, he will increase the gain of low frequencies].
+ MATLAB audio equalizer to adjust the gain of different frequency bands as the user prefers. [ i.e., if the user likes base, he will increase the gain of low frequencies].
 ## Features:
   - user can slect any audio (.wav) file to modify.
   - user can individually adjust gain of different frequency bands.
